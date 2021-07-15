@@ -74,7 +74,7 @@ isort @ file:///tmp/build/80754af9/isort_1616355431277/work
 itsdangerous @ file:///home/ktietz/src/ci/itsdangerous_1611932585308/work
 jdcal==1.4.1
 jedi @ file:///C:/ci/jedi_1606914528444/work
-Jinja2 @ file:///tmp/build/80754af9/jinja2_1612213139570/work
+Jinja2==3.0.1 
 joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
 json5==0.9.5
 jsonify==0.5
