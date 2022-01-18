@@ -12,6 +12,7 @@ def Home():
     return render_template('index.html')
 
 #this is a comment hellooooooooooooo
+#change from remote repo
 standard_to = StandardScaler()
 @app.route("/predict", methods=['POST'])
 def predict():
